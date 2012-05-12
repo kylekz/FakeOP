@@ -1,0 +1,10 @@
+name: FakeOP Advanced
+author: Kaikz
+website: http://pwncraft.net/
+description: Fake OP with custom command definitions
+main: net.pwncraft.kaikz.fakeop.FakeOP
+version: 1.1
+commands:
+  fakeop:
+    description: Manage fake OPs
+    usage: /<command> <option> [player]
